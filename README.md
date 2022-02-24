@@ -1,3 +1,6 @@
+## Huddle landing page
+
+### [Live site url](https://huddle-landing-page-react.netlify.app/)
 ![desktop-design](https://user-images.githubusercontent.com/65924250/154580652-8ce98413-985d-43ae-abfe-12f4e988e842.jpg)
 
 
